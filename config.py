@@ -1,3 +1,0 @@
-PREFIX = '!'
-
-TOKEN = 'OTUwODA0NTM0NzQ4MzgxMjI1.GUYmr_.PTHiWknnDrc9f2oZIztq0FdfaB0NbtYoilm0MM'
